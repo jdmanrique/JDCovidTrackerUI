@@ -1,17 +1,20 @@
+import { AppRoutingModule } from './../app-routing.module';
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { BrowserModule } from '@angular/platform-browser';
+import { CardsComponent } from './ui/cards/cards.component';
 
 
 
 @NgModule({
-  declarations: [],
+  declarations: [CardsComponent],
   imports: [
     CommonModule,
-    BrowserModule
+    BrowserModule,
+    AppRoutingModule
   ],
   exports: [
-    CommonModule, BrowserModule
+    CommonModule, BrowserModule, AppRoutingModule
   ]
 })
 export class SharedModule { }
