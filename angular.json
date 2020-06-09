@@ -127,8 +127,13 @@
               "devServerTarget": "jd-covid-tracker-ui:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {}
         }
       }
-    }},
+    }
+  },
   "defaultProject": "jd-covid-tracker-ui"
 }
