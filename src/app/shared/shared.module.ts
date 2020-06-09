@@ -2,19 +2,21 @@ import { AppRoutingModule } from './../app-routing.module';
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { BrowserModule } from '@angular/platform-browser';
-import { CardsComponent } from './ui/cards/cards.component';
-
-
+import { ChartsModule } from 'ng2-charts';
+import { FormsModule } from '@angular/forms';
+import { RollingCounterDirective } from './ui/directives/rolling-counter.directive';
 
 @NgModule({
-  declarations: [CardsComponent],
+  declarations: [RollingCounterDirective],
   imports: [
     CommonModule,
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    ChartsModule,
+    FormsModule
   ],
   exports: [
-    CommonModule, BrowserModule, AppRoutingModule
+    CommonModule, BrowserModule, AppRoutingModule, ChartsModule, FormsModule
   ]
 })
 export class SharedModule { }
