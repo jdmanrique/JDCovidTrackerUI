@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1591754406541,
+  "timestamp": 1591760293706,
   "index": "/JDCovidTrackerUI/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,9 @@
       "urls": [
         "/JDCovidTrackerUI/favicon.ico",
         "/JDCovidTrackerUI/index.html",
-        "/JDCovidTrackerUI/main-es2015.ff69640277c3cdd87987.js",
-        "/JDCovidTrackerUI/main-es5.ff69640277c3cdd87987.js",
+        "/JDCovidTrackerUI/main-es2015.94578a81ee1b3468205d.js",
+        "/JDCovidTrackerUI/main-es5.94578a81ee1b3468205d.js",
+        "/JDCovidTrackerUI/manifest.json",
         "/JDCovidTrackerUI/polyfills-es2015.690002c25ea8557bb4b0.js",
         "/JDCovidTrackerUI/polyfills-es5.1fd9b76218eca8053895.js",
         "/JDCovidTrackerUI/runtime-es2015.1eba213af0b233498d9d.js",
@@ -50,9 +51,10 @@
     "/JDCovidTrackerUI/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/JDCovidTrackerUI/assets/pic.jpg": "6f24c350e31b8d99ee9c77a945457c0aa28055f8",
     "/JDCovidTrackerUI/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/JDCovidTrackerUI/index.html": "6e772415c8c18c37a1efc09c83b632d023985ca6",
-    "/JDCovidTrackerUI/main-es2015.ff69640277c3cdd87987.js": "cb161b4b734a06fbfeefbe0d150ccff82c908335",
-    "/JDCovidTrackerUI/main-es5.ff69640277c3cdd87987.js": "deaf99f80ba9f7e6260275aba87d692a4f1dff36",
+    "/JDCovidTrackerUI/index.html": "3d6414a703b0e53fed366bdea786031aad2577f4",
+    "/JDCovidTrackerUI/main-es2015.94578a81ee1b3468205d.js": "f6b46e00fb6c2348e928a9ab50e8580d6a66cc9c",
+    "/JDCovidTrackerUI/main-es5.94578a81ee1b3468205d.js": "32d2af7304352cc14d9b3aade9a602ec6b4c95fc",
+    "/JDCovidTrackerUI/manifest.json": "f24fbf26e74d29cd3da87ca75c137b34f88224d8",
     "/JDCovidTrackerUI/polyfills-es2015.690002c25ea8557bb4b0.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
     "/JDCovidTrackerUI/polyfills-es5.1fd9b76218eca8053895.js": "89222a28dbabb780fc372d33834080e0cd3083d9",
     "/JDCovidTrackerUI/runtime-es2015.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
